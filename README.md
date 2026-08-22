@@ -1,6 +1,6 @@
-# Nezam Playwright Tests
+# Playwright Tests
 
-End-to-end tests for the SauceDemo shopping application using Playwright and TypeScript.
+End-to-end tests for the shopping application using Playwright and TypeScript.
 
 ## Requirements
 

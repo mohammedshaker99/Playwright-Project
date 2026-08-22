@@ -33,10 +33,6 @@ export class LoginPage {
         await this.loginButton.click();
     }
 
-    async logout() {
-        
-    }
-
     // Assertions
 
     async assertEmptyUsernameError() {
